@@ -1,4 +1,4 @@
 softbinator-dp
 ==============
 
-Presenation on Differential Privacy at Talks by Softbinator
+Presentation on Differential Privacy at Talks by Softbinator
